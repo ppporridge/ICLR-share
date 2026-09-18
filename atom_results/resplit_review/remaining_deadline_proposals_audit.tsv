@@ -1,0 +1,228 @@
+global_index	edit_id	verb	original_en	result_zh	time_zh
+331	human_023_E1	make	Starting at 12.0 seconds, make the inverted athlete's visible arm muscles more defined over the next two seconds.	倒立运动员可见的手臂肌肉轮廓是否变得更加明显？	该结果是否在 2 秒内实现？
+343	human_029_E1	add	Starting at 14.0 seconds, add light freckles across the man's visible forearm skin over the next two seconds.	男子可见的前臂皮肤上是否添加了浅色雀斑？	该添加是否在 2 秒内完成？
+437	human_090_E2A	reverse	Starting at 34.0 seconds, reverse the tomato-dicing process by one completed cutting step over three seconds.	番茄切丁过程是否反向退回一个已完成的切割步骤？	该反向处理是否在 3 秒内完成？
+450	human_099_E2B	zoom	Starting at 29.0 seconds, zoom in on the open engine bay over three seconds.	镜头是否拉近并聚焦打开的发动机舱？	该镜头变焦是否在 3 秒内完成？
+474	human_115_E2B	zoom	Starting at 29.0 seconds, zoom in to an upper-body view of the comedian over three seconds.	镜头是否推近到喜剧演员的上半身视图？	该镜头变焦是否在 3 秒内完成？
+493	human_127_E1	add	Starting at 12.0 seconds, add a neatly trimmed gray moustache to the older man's face over the next two seconds.	年长男子的脸上是否添加了修剪整齐的灰色小胡子？	该添加是否在 2 秒内完成？
+495	human_127_E2B	move	Starting at 27.0 seconds, move the camera to a wider two-person view over three seconds.	镜头是否移到包含两个人的更宽视图？	该移动是否在 3 秒内完成？
+510	human_139_E2B	move	Starting at 29.0 seconds, move the camera smoothly closer to the pinball playfield over three seconds.	镜头是否平稳地靠近弹球机台面？	该移动是否在 3 秒内完成？
+540	human_159_E2B	zoom	Starting at 35.0 seconds, zoom in on the two gel containers over three seconds.	镜头是否推近并聚焦两个凝胶容器？	该镜头变焦是否在 3 秒内完成？
+562	human_175_E1	zoom	Starting at 20.0 seconds, zoom in on the medium-format camera mounted on the tripod over four seconds.	镜头是否推近并聚焦安装在三脚架上的中画幅相机？	该镜头变焦是否在 4 秒内完成？
+582	human_187_E2B	zoom	Starting at 29.0 seconds, zoom out to include the woman's upper torso over three seconds.	镜头是否拉远并纳入女子的上半身？	该镜头变焦是否在 3 秒内完成？
+588	human_191_E2B	move	Starting at 29.0 seconds, move the camera smoothly closer to the man's face and microphone over five seconds.	镜头是否平稳地靠近男子的脸部和麦克风？	该移动是否在 5 秒内完成？
+644	object_027_E2A	move	Starting at 29.0 seconds, move the camera to a centered view directly behind the main bus over four seconds.	镜头是否移到主公交车正后方的居中视角？	该移动是否在 4 秒内完成？
+774	object_113_E2B	make	Starting at 29.0 seconds, make the stunt kite follow four compact alternating zigzags over six seconds.	特技风筝是否完成恰好四次紧凑的交替之字形飞行？	该结果是否在 6 秒内实现？
+794	object_127_E2A	make	Starting at 29.0 seconds, make the active opossum circle the supine opossum once over five seconds.	活跃的负鼠是否围绕仰卧的负鼠恰好绕行一圈？	该结果是否在 5 秒内实现？
+839	object_160_E2A	make	Starting at 29.0 seconds, make the brown toad lift its front body with both forelegs twice over five seconds.	棕色蟾蜍是否用两条前腿恰好抬起前半身两次？	该结果是否在 5 秒内实现？
+852	object_168_E2B	make	Starting at 29.0 seconds, make the opossum-like animal raise both forepaws together twice over five seconds.	负鼠状动物是否同时抬起两只前爪恰好两次？	该结果是否在 5 秒内实现？
+909	process_005_E2B	zoom	Starting at 29.0 seconds, zoom in smoothly over four seconds on the red convection plumes around the suspended tea bag.	镜头是否平稳推近并聚焦悬挂茶包周围的红色对流羽流？	该镜头变焦是否在 4 秒内完成？
+913	process_012_E1	transition	Starting at 13.0 seconds, transition the left-jar nails over six seconds from scattered brown oxidation to a stage where rust covers half of their visible surfaces.	左侧罐中的钉子是否从零散的棕色氧化状态转变为锈迹覆盖其可见表面一半？	该转变是否在 6 秒内完成？
+937	process_023_E1	transition	Starting at 13.0 seconds, transition the mushroom clusters over five seconds from small rounded caps to a later stage with several medium caps spreading outward.	蘑菇簇是否从小型圆帽状态转变为多个中等大小菌盖向外展开？	该转变是否在 5 秒内完成？
+953	process_035_E2A	zoom	Starting at 25.0 seconds, zoom in smoothly over four seconds on the narrowing bright lunar crescent.	镜头是否平稳推近并聚焦正在变窄的明亮月牙？	该镜头变焦是否在 4 秒内完成？
+960	process_040_E2B	transition	Starting at 28.0 seconds, transition the leftmost hatchling over five seconds to a later stage in which it has completely emerged from the shell.	最左侧幼体是否完全脱离蛋壳？	该转变是否在 5 秒内完成？
+961	process_041_E1	transition	Starting at 13.0 seconds, transition the yellow flower over five seconds from its full-bloom plateau to a later stage with visibly drooping outer petals.	黄色花朵是否从完全盛开转变为外层花瓣明显下垂？	该转变是否在 5 秒内完成？
+965	process_045_E2A	transition	Starting at 24.0 seconds, transition the backyard snow over five seconds to a later accumulation stage that completely buries the visible orange wooden stake.	后院积雪是否达到完全掩埋可见橙色木桩的更深积累阶段？	该转变是否在 5 秒内完成？
+991	process_062_E1	transition	Starting at 13.0 seconds, transition the sea-horizon sunrise over five seconds to a later stage with the complete solar disc visible above the horizon.	日出是否推进到完整日盘在海平面上方可见的阶段？	该转变是否在 5 秒内完成？
+992	process_062_E2A	zoom	Starting at 25.0 seconds, zoom in smoothly over four seconds on the low sun and its warm reflection across the sea.	镜头是否平稳推近并聚焦低悬太阳及其横跨海面的温暖倒影？	该镜头变焦是否在 4 秒内完成？
+1016	process_077_E2A	zoom	Starting at 29.0 seconds, zoom in smoothly over four seconds on the tracked shark-like fish beneath the water surface.	镜头是否平稳推近并聚焦水面下被跟踪的鲨鱼状鱼？	该镜头变焦是否在 4 秒内完成？
+1024	process_083_E1	give	Starting at 13.0 seconds, give the largest central hanging fruit six narrow vertical yellow stripes alternating with green over two seconds.	中央最大的悬挂果实是否出现恰好六条与绿色交替排列的黄色窄竖纹？	该变化是否在 2 秒内完成？
+1061	process_110_E2A	give	Starting at 29.0 seconds, give the largest central green fruit four narrow cream-colored longitudinal stripes over two seconds.	中央最大的绿色果实是否出现恰好四条窄的奶油色纵向条纹？	该变化是否在 2 秒内完成？
+1083	process_121_E2B	rapidly	Starting at 25.0 seconds, rapidly advance the scene over five seconds to a stage with numerous visitors dispersed across the grass around the stone circle.	场景是否推进到许多游客分散在石圈周围草地上的阶段？	该推进是否在 5 秒内完成？
+1091	process_129_E2A	zoom	Starting at 29.0 seconds, zoom in smoothly over four seconds on the red passenger boat and its complete visible wake.	镜头是否平稳推近并聚焦红色客船及其完整可见的尾流？	该镜头变焦是否在 4 秒内完成？
+1130	process_150_E2A	zoom	Starting at 29.0 seconds, zoom in smoothly over four seconds on the central red flower bed beneath the trees.	镜头是否平稳推近并聚焦树下中央的红色花坛？	该镜头变焦是否在 4 秒内完成？
+1178	process_184_E2A	zoom	Starting at 29.0 seconds, zoom in smoothly over four seconds on the foreground pool and the left-side cascade.	镜头是否平稳推近并聚焦前景水池和左侧瀑流？	该镜头变焦是否在 4 秒内完成？
+1201	scene_002_E1	make	Starting at 17.5 seconds, make the pool become visibly clearer over two seconds.	泳池水是否变得明显更清澈？	该结果是否在 2 秒内实现？
+1212	scene_009_E2B	relight	Starting at 32.0 seconds, relight the visible performance area with soft neutral daylight, completing the transition over two seconds.	可见表演区域是否被柔和的中性日光重新照亮？	该重新照明是否在 2 秒内完成？
+1213	scene_012_E1	make	Starting at 11.5 seconds, make the road become visibly dry over two seconds.	道路是否变得明显干燥？	该结果是否在 2 秒内实现？
+1215	scene_012_E2B	replace	Starting at 26.5 seconds, replace one edge training cone with a same-size plain blue training marker over two seconds.	边缘处的一个训练锥是否被替换为同样大小的纯蓝色训练标记？	该替换是否在 2 秒内完成？
+1219	scene_015_E1	repair	Starting at 14.5 seconds, repair the trucks to a structurally intact state over two seconds.	卡车是否被修复为结构完整状态？	该修复是否在 2 秒内完成？
+1221	scene_015_E2B	remove	Starting at 26.5 seconds, remove the farthest unmarked vehicle from the documented scene over two seconds.	最远处的无标记车辆是否从记录场景中被移除？	该移除是否在 2 秒内完成？
+1227	scene_018_E2B	relight	Starting at 30.5 seconds, relight the documented visible scene area with soft warm daylight, completing the transition over two seconds.	记录中的可见场景区域是否被柔和的暖色日光重新照亮？	该重新照明是否在 2 秒内完成？
+1229	scene_020_E2A	replace	Starting at 28.5 seconds, replace one edge training cone with a same-size plain blue training marker over two seconds.	边缘处的一个训练锥是否被替换为同样大小的纯蓝色训练标记？	该替换是否在 2 秒内完成？
+1231	scene_022_E1	switch	Starting at 11.5 seconds, switch the overhead light fixtures to an unlit state over two seconds.	顶部灯具是否切换为熄灭状态？	该切换是否在 2 秒内完成？
+1252	scene_037_E1	raise	Starting at 13.5 seconds, raise the visible water level of the water surface by 0.25 meters over two seconds.	可见水面水位是否升高 0.25 米？	该升高是否在 2 秒内完成？
+1254	scene_037_E2B	split	Starting at 28.5 seconds, split the longest visible fallen log into two equal aligned log sections over two seconds.	最长的可见倒木是否被分成两段等长且对齐的木段？	该分裂是否在 2 秒内完成？
+1255	scene_039_E1	relight	Starting at 16.5 seconds, relight the visible performance area with soft neutral daylight, completing the transition over two seconds.	可见表演区域是否被柔和的中性日光重新照亮？	该重新照明是否在 2 秒内完成？
+1259	scene_040_E2A	replace	Starting at 28.5 seconds, replace one orange edge slalom cone with a same-size plain blue training marker over two seconds.	边缘处的一个橙色绕桩锥是否被替换为同样大小的纯蓝色训练标记？	该替换是否在 2 秒内完成？
+1260	scene_040_E2B	relight	Starting at 29.5 seconds, relight the documented visible scene area with soft warm daylight, completing the transition over two seconds.	记录中的可见场景区域是否被柔和的暖色日光重新照亮？	该重新照明是否在 2 秒内完成？
+1265	scene_042_E2A	merge	Starting at 28.5 seconds, merge two adjacent ordinary tables into one continuous wider table over two seconds.	两张相邻的普通桌子是否被合并为一张连续的更宽桌子？	该合并是否在 2 秒内完成？
+1270	scene_047_E1	make	Starting at 14.5 seconds, make the rain-darkened road surface become visibly dry over two seconds.	被雨水浸暗的路面是否变得明显干燥？	该结果是否在 2 秒内实现？
+1278	scene_049_E2B	replace	Starting at 34.0 seconds, replace one empty unmarked display rack with a same-size unmarked open shelving unit over two seconds.	一个空的无标记展示架是否被替换为同样大小的无标记开放式搁架？	该替换是否在 2 秒内完成？
+1287	scene_055_E2B	relight	Starting at 28.5 seconds, relight the industrial building and parking area with soft neutral daylight, completing the transition over two seconds.	工业建筑和停车区是否被柔和的中性日光重新照亮？	该重新照明是否在 2 秒内完成？
+1288	scene_057_E1	make	Starting at 12.5 seconds, make one visible muddy patch beside the gravel track become visibly dry over two seconds.	碎石路旁一处可见泥泞地块是否变得明显干燥？	该结果是否在 2 秒内实现？
+1291	scene_061_E1	reduce	Starting at 15.5 seconds, reduce the wet road's standing-water glare to a low-gloss damp finish over two seconds.	湿路面的积水强反光是否变为低光泽的潮湿表面？	该降低是否在 2 秒内完成？
+1309	scene_068_E1	make	Starting at 14.5 seconds, make the road surface evenly damp and reflective over two seconds.	路面是否均匀变湿并具有反光效果？	该结果是否在 2 秒内实现？
+1322	scene_082_E2A	replace	Starting at 28.5 seconds, replace one empty street-side chair with a same-height unmarked wooden backless chair over two seconds.	街边一把空椅子是否被替换为同等高度的无标记木质无靠背椅？	该替换是否在 2 秒内完成？
+1338	scene_090_E2B	replace	Starting at 30.0 seconds, replace one unmarked cylindrical waste bin with a same-footprint matte-gray dual-stream bin over two seconds.	一个无标记圆柱形垃圾桶是否被替换为占地面积相同的哑光灰色双分类垃圾桶？	该替换是否在 2 秒内完成？
+1346	scene_097_E2A	make	Starting at 26.5 seconds, make one visible parking-lot segment evenly damp and reflective over two seconds.	一段可见停车场地面是否均匀变湿并具有反光效果？	该结果是否在 2 秒内实现？
+1348	scene_099_E1	thin	Starting at 19.0 seconds, thin the cloud cover above the twin towers to broken-cloud conditions over three seconds.	双塔上方的云层是否减薄为间断多云状态？	该变薄是否在 3 秒内完成？
+1355	scene_103_E2A	remove	Starting at 29.5 seconds, remove one isolated flat white field marker from the outer field over two seconds.	外侧田地中的一个孤立扁平白色田间标记是否被移除？	该移除是否在 2 秒内完成？
+1358	scene_104_E2A	replace	Starting at 28.5 seconds, replace one empty unmarked blue stool with a same-height plain gray backless stool over two seconds.	一个空的无标记蓝色凳子是否被替换为同等高度的普通灰色无靠背凳？	该替换是否在 2 秒内完成？
+1363	scene_108_E1	make	Starting at 16.5 seconds, make the exposed soil around the seedling evenly damp and low-gloss over two seconds.	幼苗周围裸露的土壤是否均匀变湿并呈低光泽？	该结果是否在 2 秒内实现？
+1378	scene_120_E1	make	Starting at 14.5 seconds, make the aquarium water visibly clearer over two seconds.	水族箱水是否变得明显更清澈？	该结果是否在 2 秒内实现？
+1379	scene_120_E2A	remove	Starting at 29.5 seconds, remove one isolated small coral-rubble pebble from the open reef gap over two seconds.	开阔礁石间隙中的一颗孤立小型珊瑚碎石是否被移除？	该移除是否在 2 秒内完成？
+1381	scene_123_E1	develop	Starting at 14.5 seconds, develop thin evenly dispersed cloud cover across the visible park sky over three seconds.	公园可见天空是否形成稀薄且均匀分布的云层？	该形成是否在 3 秒内完成？
+1383	scene_123_E2B	remove	Starting at 29.5 seconds, remove one small gray landscape spotlight from the grass edge over two seconds.	草地边缘的一盏小型灰色景观射灯是否被移除？	该移除是否在 2 秒内完成？
+1387	scene_126_E1	make	Starting at 14.5 seconds, make the unmarked highway surface evenly damp and low-gloss over two seconds.	无标记高速公路路面是否均匀变湿并呈低光泽？	该结果是否在 2 秒内实现？
+1391	scene_128_E2A	remove	Starting at 29.5 seconds, remove one isolated empty sideline chair over two seconds.	一把孤立的空边线椅是否被移除？	该移除是否在 2 秒内完成？
+1393	scene_129_E1	develop	Starting at 19.0 seconds, develop soft thin-cloud coverage across the visible canal-district sky over three seconds.	运河区可见天空是否形成柔和的薄云覆盖？	该形成是否在 3 秒内完成？
+1396	scene_134_E1	reduce	Starting at 13.5 seconds, reduce standing-water glare on the rain-wet unmarked courtyard paving over two seconds.	雨湿无标记庭院铺装上的积水强反光是否降低？	该降低是否在 2 秒内完成？
+1402	scene_136_E1	develop	Starting at 15.5 seconds, develop scattered high-cloud coverage across the visible sky above the office towers over three seconds.	办公塔楼上方的可见天空是否形成分散的高云覆盖？	该形成是否在 3 秒内完成？
+1403	scene_136_E2A	remove	Starting at 27.0 seconds, remove one isolated black curb bollard from the far sidewalk over two seconds.	远侧人行道上的一个孤立黑色路缘柱是否被移除？	该移除是否在 2 秒内完成？
+1406	scene_137_E2A	merge	Starting at 28.5 seconds, merge two adjacent white boat-shaped fountain fixtures into one continuous wider fixture over two seconds.	两个相邻的白色船形喷泉装置是否被合并为一个连续且更宽的装置？	该合并是否在 2 秒内完成？
+1407	scene_137_E2B	replace	Starting at 30.5 seconds, replace one small background cypress tree with a native broadleaf tree of matching height over two seconds.	背景中的一棵小柏树是否被替换为高度相同的本地阔叶树？	该替换是否在 2 秒内完成？
+1413	scene_141_E2B	remove	Starting at 28.5 seconds, remove one thin outer-row wooden mooring post over 2.5 seconds.	一根外排细木质系泊桩是否被移除？	该移除是否在 2.5 秒内完成？
+1416	scene_143_E2B	remove	Starting at 28.5 seconds, remove one isolated plain paper scrap from the shaded paving over 2.5 seconds.	阴影铺装地面上的一张孤立普通废纸是否被移除？	该移除是否在 2.5 秒内完成？
+1429	scene_152_E1	reduce	Starting at 15.5 seconds, reduce the rain-wet plaza paving to a uniformly damp low-gloss state over three seconds.	雨湿广场铺装是否变为均匀潮湿的低光泽状态？	该降低是否在 3 秒内完成？
+1431	scene_152_E2B	remove	Starting at 30.5 seconds, remove the outermost unmarked bicycle from the left-side rack over 2.5 seconds.	左侧车架上最外侧的无标记自行车是否被移除？	该移除是否在 2.5 秒内完成？
+1440	scene_160_E2B	remove	Starting at 31.5 seconds, remove one plain cardboard box from the foreground paving over 2.5 seconds.	前景铺装地面上的一个普通纸箱是否被移除？	该移除是否在 2.5 秒内完成？
+1441	scene_161_E1	make	Starting at 15.5 seconds, make the dark asphalt road surface visibly damp with a low-gloss finish over three seconds.	深色沥青路面是否变得明显潮湿并呈低光泽？	该结果是否在 3 秒内实现？
+1450	scene_167_E1	make	Starting at 15.5 seconds, make the patchy brown playing-field surface evenly damp and low-gloss over three seconds.	斑驳棕色运动场表面是否均匀变湿并呈低光泽？	该结果是否在 3 秒内实现？
+1452	scene_167_E2B	remove	Starting at 30.5 seconds, remove one unused green ground marker from the outer field edge over 2.5 seconds.	场地外缘的一个未使用绿色地面标志物是否被移除？	该移除是否在 2.5 秒内完成？
+1453	scene_168_E1	increase	Starting at 14.5 seconds, increase thin-cloud coverage across the visible sky above the drive-through reserve by 20% over four seconds.	驾车游览保护区上方可见天空中的薄云覆盖率是否提高 20%？	该增加是否在 4 秒内完成？
+1455	scene_168_E2B	remove	Starting at 29.5 seconds, remove one isolated fallen branch from the background grass over 2.5 seconds.	背景草地上的一根孤立倒下树枝是否被移除？	该移除是否在 2.5 秒内完成？
+1458	scene_169_E2B	zoom	Starting at 26.5 seconds, zoom in by 10% around the table-tennis table and automatic launcher over two seconds.	画面是否围绕乒乓球台和自动发球器放大 10%？	该镜头变焦是否在 2 秒内完成？
+1459	scene_173_E1	reduce	Starting at 10.5 seconds, reduce the rain-wet plaza paving's reflectivity by 20% to a low-gloss damp finish over three seconds.	雨湿广场铺地的反射率是否降低 20%，并呈现低光泽湿润表面？	该降低是否在 3 秒内完成？
+1465	scene_179_E1	make	Starting at 11.5 seconds, make the narrow visible sidewalk evenly damp and low-gloss over three seconds.	狭窄的可见人行道是否均匀变湿并呈低光泽？	该结果是否在 3 秒内实现？
+1470	scene_180_E2B	remove	Starting at 29.5 seconds, remove one isolated lily pad away from the kayak route over 2.5 seconds.	一个远离皮划艇路线的孤立睡莲叶是否被移除？	该移除是否在 2.5 秒内完成？
+1474	scene_183_E1	make	Starting at 15.5 seconds, make the wooden gym floor completely non-reflective with a uniform matte sealed surface over three seconds.	木质体育馆地板是否变得完全不反光，并呈现均匀的哑光密封表面？	该结果是否在 3 秒内实现？
+1476	scene_183_E2B	merge	Starting at 30.5 seconds, merge two adjacent empty folding chairs at the outer seating edge into one matching unmarked two-seat bench over 2.5 seconds.	座位区外缘两把相邻的空折叠椅是否合并为一张风格匹配、无标记的双人长凳？	该合并是否在 2.5 秒内完成？
+1483	scene_186_E1	make	Starting at 15.5 seconds, make the unmarked highway surface visibly drier and matte over three seconds.	无标记的公路表面是否明显变得更干燥且呈哑光？	该结果是否在 3 秒内实现？
+1486	scene_187_E1	darken	Starting at 15.5 seconds, darken the noninteractive blue water regions to a 15% deeper cobalt over three seconds.	非交互式蓝色水域是否加深为深 15% 的钴蓝色？	该变暗是否在 3 秒内完成？
+1488	scene_187_E2B	remove	Starting at 30.5 seconds, remove one small decorative fern sprite from the noninteractive upper rock wall over 2.5 seconds.	非交互式上方岩壁上的一个小型装饰性蕨类精灵图是否被移除？	该移除是否在 2.5 秒内完成？
+1489	scene_188_E1	reduce	Starting at 19.0 seconds, reduce the warm tint of the unmarked entrance-stone surfaces by 15% over three seconds.	无标记入口石材表面的暖色调是否降低 15%？	该降低是否在 3 秒内完成？
+1492	scene_189_E1	darken	Starting at 15.5 seconds, darken the unmarked green court surface by 12% over three seconds.	无标记的绿色球场表面是否调暗 12%？	该变暗是否在 3 秒内完成？
+1494	scene_189_E2B	remove	Starting at 30.5 seconds, remove one unused plain training cone along the rear wall over 2.5 seconds.	后墙沿线一个未使用的普通训练锥是否被移除？	该移除是否在 2.5 秒内完成？
+1495	scene_198_E1	darken	Starting at 11.5 seconds, darken the unmarked green robot-football surface by 12% over three seconds.	无标记的绿色机器人足球场表面是否调暗 12%？	该变暗是否在 3 秒内完成？
+1498	scene_199_E1	darken	Starting at 15.5 seconds, darken the unmarked teal badminton-court surface by 12% over three seconds.	无标记的蓝绿色羽毛球场表面是否调暗 12%？	该变暗是否在 3 秒内完成？
+1512	synthetic_embodied_004_E2B	make	At 25.5 seconds, make the long bench beside the gallery's right wall rock gently twice over four seconds.	画廊右墙旁的长凳是否轻轻摇晃两次？	该结果是否在 4 秒内实现？
+1520	synthetic_embodied_007_E2A	make	At 24 seconds, make the observer open and close both empty hands twice over four seconds.	观察者是否将两只空手张开并合拢两次？	该结果是否在 4 秒内实现？
+1524	synthetic_embodied_008_E2B	make	At 23.5 seconds, make the main tent's loose gray inner flap flutter twice over three seconds.	主帐篷松散的灰色内帘是否飘动两次？	该结果是否在 3 秒内实现？
+1563	synthetic_embodied_021_E2B	lower	At 24.5 seconds, lower the viewpoint smoothly toward the filled glass's rim over three seconds.	视点是否平滑降低至盛满水的玻璃杯杯沿附近？	该降低是否在 3 秒内完成？
+1567	synthetic_embodied_023_E1	make	At 16.5 seconds, make both hands alternately lift the brown duvet's near corners twice over four seconds.	双手是否交替抬起棕色羽绒被的近侧两角两次？	该结果是否在 4 秒内实现？
+1572	synthetic_embodied_024_E2B	make	At 28.5 seconds, make the right hand trace two small clockwise circles across the folded cloth over four seconds.	右手是否沿折叠布料画两个小型顺时针圆圈？	该结果是否在 4 秒内实现？
+1581	synthetic_embodied_027_E2B	make	At 29.5 seconds, make the right hand tap the open bag's near rim three times over four seconds.	右手是否轻敲打开袋子的近侧边缘三次？	该结果是否在 4 秒内实现？
+1592	synthetic_embodied_031_E2A	make	At 21 seconds, make the left hand pull the drawer outward again over three seconds.	左手是否再次将抽屉向外拉出？	该结果是否在 3 秒内实现？
+1597	synthetic_embodied_033_E1	make	At 10.5 seconds, make the right hand pull the loose mandarin peel with three short tugs over four seconds.	右手是否以三次短促拉动扯动松散的橘皮？	该结果是否在 4 秒内实现？
+1608	synthetic_embodied_036_E2B	make	Starting at 28.5 seconds, make both hands pull the partially rolled blue mat once toward the observer over four seconds.	双手是否将部分卷起的蓝色垫子朝观察者方向拉动一次？	该结果是否在 4 秒内实现？
+1611	synthetic_embodied_037_E2B	make	At 26.5 seconds, make the right hand tap the lunchbox's front rim twice over three seconds.	右手是否轻敲午餐盒前缘两次？	该结果是否在 3 秒内实现？
+1612	synthetic_embodied_038_E1	make	At 15 seconds, make the right hand wipe the right eyeglass lens with two vertical strokes over four seconds.	右手是否用两次竖直擦拭动作清洁右侧眼镜镜片？	该结果是否在 4 秒内实现？
+1617	synthetic_embodied_039_E2B	make	At 32 seconds, make the left hand pat the empty bin's front rim twice over three seconds.	左手是否轻拍空垃圾桶的前缘两次？	该结果是否在 3 秒内实现？
+1619	synthetic_embodied_040_E2A	make	At 23.5 seconds, make the right hand lift the cooker lid back to its fully open position over three seconds.	右手是否将电饭煲盖重新抬到完全打开的位置？	该结果是否在 3 秒内实现？
+1623	synthetic_embodied_041_E2B	make	At 29 seconds, make the right hand twist the fitted light bulb a half-turn counterclockwise over three seconds.	右手是否将已装入的灯泡逆时针旋转半圈？	该结果是否在 3 秒内实现？
+1624	synthetic_embodied_042_E1	make	At 19.5 seconds, make the right hand rehearse one hammer stroke beside the nail without contact over two seconds.	右手是否于钉子旁预演一次锤击动作且不接触钉子？	该结果是否在 2 秒内实现？
+1635	synthetic_embodied_045_E2B	tilt	At 27.5 seconds, tilt the viewpoint downward from the canopy toward the tree trunk over three seconds.	视点是否从树冠向下倾斜至树干？	该倾斜是否在 3 秒内完成？
+1636	synthetic_embodied_046_E1	make	At 16.5 seconds, make the right hand pull the tape-measure housing one palm-width farther right over three seconds.	右手是否将卷尺外壳向右再拉一个手掌宽度？	该结果是否在 3 秒内实现？
+1638	synthetic_embodied_046_E2B	pan	At 29.5 seconds, pan the viewpoint gently rightward along the measuring tape over three seconds.	视点是否沿卷尺轻柔地向右平移？	该平移是否在 3 秒内完成？
+1640	synthetic_embodied_047_E2A	make	At 25.5 seconds, make the visible left hand draw the tweezers slightly leftward over three seconds.	可见的左手是否将镊子稍微向左拉动？	该结果是否在 3 秒内实现？
+1642	synthetic_embodied_048_E1	make	At 15 seconds, make the right hand open and close the pliers twice over three seconds.	右手是否将钳子张开并合拢两次？	该结果是否在 3 秒内实现？
+1648	synthetic_embodied_050_E1	move	At 15.5 seconds, move the viewpoint through a short leftward arc around the plant's root ball over three seconds.	视点是否绕植物根球沿短距离弧线向左移动？	该移动是否在 3 秒内完成？
+1655	synthetic_embodied_052_E2A	make	At 23.5 seconds, make the left hand rock the picture frame clockwise and back once over four seconds.	左手是否将画框顺时针摆动再摆回一次？	该结果是否在 4 秒内实现？
+1659	synthetic_embodied_053_E2B	move	At 28.5 seconds, move the existing viewpoint slightly leftward along the workbench over three seconds.	视点是否沿工作台稍微向左移动？	该移动是否在 3 秒内完成？
+1662	synthetic_embodied_054_E2B	make	At 29 seconds, make the right hand squeeze and release the spring-clamp handles once over three seconds.	右手是否挤压并松开弹簧夹手柄一次？	该结果是否在 3 秒内实现？
+1673	synthetic_embodied_058_E2A	make	At 26 seconds, make the right hand scrape the wall with two short horizontal strokes over four seconds.	右手是否用两次短促的水平动作刮擦墙面？	该结果是否在 4 秒内实现？
+1684	synthetic_embodied_062_E1	tilt	At 15.5 seconds, tilt the viewpoint slightly downward toward the motorcycle handlebars over three seconds.	视点是否稍微向下倾斜至摩托车车把？	该倾斜是否在 3 秒内完成？
+1695	synthetic_embodied_065_E2B	make	At 29.5 seconds, make the right hand tap the steering-wheel center twice over three seconds.	右手是否轻敲方向盘中心两次？	该结果是否在 3 秒内实现？
+1696	synthetic_embodied_066_E1	lower	At 14.5 seconds, lower the viewing angle slightly toward the blue kayak bow over three seconds.	观看角度是否稍微向下移至蓝色皮划艇船首？	该降低是否在 3 秒内完成？
+1700	synthetic_embodied_067_E2A	make	At 21.5 seconds, make both hands pull the sail-rope bundle with two short downward tugs over four seconds.	双手是否用两次短促向下拉动牵拉帆绳束？	该结果是否在 4 秒内实现？
+1708	synthetic_embodied_070_E1	raise	At 15 seconds, raise the viewing angle slightly toward the field horizon over three seconds.	观看角度是否稍微抬高至田野地平线？	该升高是否在 3 秒内完成？
+1709	synthetic_embodied_070_E2A	make	At 25.5 seconds, make the driver's left hand tap the tractor steering-wheel center twice over three seconds.	驾驶员左手是否轻敲拖拉机方向盘中心两次？	该结果是否在 3 秒内实现？
+1714	synthetic_embodied_072_E1	make	At 13 seconds, make the train cab's two windshield wipers perform one synchronized sweep and return over three seconds.	列车驾驶室的两根雨刷是否同步完成一次刮动并返回？	该结果是否在 3 秒内实现？
+1727	synthetic_embodied_076_E2A	make	At 24.5 seconds, make the rider and handlebar vehicle travel straight backward one meter over four seconds.	骑行者和车把式车辆是否沿直线向后移动 1 米？	该结果是否在 4 秒内实现？
+1734	synthetic_embodied_078_E2B	pan	At 29 seconds, pan the viewpoint slightly rightward within the loader cab over three seconds.	视点是否于装载机驾驶室内稍微向右平移？	该平移是否在 3 秒内完成？
+1746	synthetic_embodied_082_E2B	make	At 28.5 seconds, make the right hand arc the broom outward to the right and back once over three seconds.	右手是否将扫帚沿弧线向右外侧移动再返回一次？	该结果是否在 3 秒内实现？
+1755	synthetic_embodied_085_E2B	make	At 28.5 seconds, make the left hand trace one small circle above the clamped aluminum tube over three seconds.	左手是否于夹紧的铝管上方画一个小圆圈？	该结果是否在 3 秒内实现？
+1757	synthetic_embodied_086_E2A	make	At 24.5 seconds, make the right fingers tap the red shopping-basket rim twice over three seconds.	右手手指是否轻敲红色购物篮边缘两次？	该结果是否在 3 秒内实现？
+1768	synthetic_embodied_090_E1	make	At 13.5 seconds, make the right hand wave once from side to side above the traffic cone over three seconds.	右手是否于交通锥上方左右挥动一次？	该结果是否在 3 秒内实现？
+1771	synthetic_embodied_091_E1	tilt	At 16.5 seconds, tilt the viewing direction slightly upward toward the ceiling pipes over three seconds.	观看方向是否稍微向上倾斜至天花板管道？	该倾斜是否在 3 秒内完成？
+1772	synthetic_embodied_091_E2A	make	At 25.5 seconds, make the observer take one short backward step from the electrical cabinet over two seconds.	观察者是否从电气柜前向后迈一个短步？	该结果是否在 2 秒内实现？
+1774	synthetic_embodied_092_E1	make	At 17.5 seconds, make both gloved hands shift the level baking tray left and back once over three seconds.	戴手套的双手是否将保持水平的烤盘向左移动再移回一次？	该结果是否在 3 秒内实现？
+1782	synthetic_embodied_094_E2B	make	At 29.5 seconds, make the observer take two short backward steps inside the viewing platform over four seconds.	观察者是否于观景平台内向后迈两个短步？	该结果是否在 4 秒内实现？
+1788	synthetic_embodied_096_E2B	move	At 28 seconds, move the viewpoint through a short rightward arc around the held laboratory tube over three seconds.	视点是否绕手持实验室试管沿短距离弧线向右移动？	该移动是否在 3 秒内完成？
+1793	synthetic_embodied_098_E2A	make	At 26.5 seconds, make both hands raise the wheelbarrow handles in two short upward pulses over three seconds.	双手是否以两次短促向上动作抬起手推车把手？	该结果是否在 3 秒内实现？
+1794	synthetic_embodied_098_E2B	move	At 29.5 seconds, move the viewpoint slightly leftward past the raised wheelbarrow tray over three seconds.	视点是否从抬起的手推车车斗旁稍微向左移动？	该移动是否在 3 秒内完成？
+1797	synthetic_embodied_099_E2B	make	At 29.5 seconds, make the tray carrier take two short backward steps from the meeting table over four seconds.	托盘携带者是否从会议桌旁向后迈两个短步？	该结果是否在 4 秒内实现？
+1803	synthetic_human_001_E2B	make	At 25.5 seconds, make the woman gradually form a warm smile over the next three seconds.	女子是否逐渐露出温暖的微笑？	该结果是否在 3 秒内实现？
+1809	synthetic_human_003_E2B	make	At 26.0 seconds, make the older woman gradually form a broad smile over the next four seconds.	年长女子是否逐渐露出灿烂笑容？	该结果是否在 4 秒内实现？
+1831	synthetic_human_011_E1	make	Starting at 12.5 seconds, make the goalkeeper straighten his torso from the forward lean to an upright posture over four seconds.	守门员是否将前倾的躯干挺直到直立姿势？	该结果是否在 4 秒内实现？
+1842	synthetic_human_014_E2B	make	At 25.5 seconds, make the woman straighten her shoulders and upper torso from the existing forward lean over three seconds.	女子是否将原本前倾的双肩和上身挺直？	该结果是否在 3 秒内实现？
+1848	synthetic_human_016_E2B	make	At 27.0 seconds, make the cook gradually form a broad satisfied smile over the next four seconds.	厨师是否逐渐露出满意的灿烂笑容？	该结果是否在 4 秒内实现？
+1853	synthetic_human_018_E2A	make	Starting at 31.5 seconds, make the photographer turn the lens focus ring clockwise through one full rotation over three seconds.	摄影师是否将镜头对焦环顺时针旋转完整一圈？	该结果是否在 3 秒内实现？
+1859	synthetic_human_020_E2A	make	At 30.0 seconds, make the woodworker gradually form a soft smile over the next four seconds.	木工是否逐渐露出柔和的微笑？	该结果是否在 4 秒内实现？
+1867	synthetic_human_023_E1	make	At 12.5 seconds, make the cafe woman gradually form a small closed-lip smile over the next three seconds.	咖啡馆中的女子是否逐渐露出轻微的闭唇微笑？	该结果是否在 3 秒内实现？
+1875	synthetic_human_025_E2B	make	At 26.0 seconds, make the woman pruning the bonsai gradually form a gentle focused smile over the next three seconds.	正在修剪盆景的女子是否逐渐露出温和而专注的微笑？	该结果是否在 3 秒内实现？
+1879	synthetic_human_027_E1	make	At 12.5 seconds, make the woman beside the window gradually form a small relaxed smile over the next three seconds.	窗边女子是否逐渐露出轻微而放松的微笑？	该结果是否在 3 秒内实现？
+1882	synthetic_human_028_E1	make	At 12.5 seconds, make the seated man draw both shoulders back and straighten his upper torso over four seconds.	坐着的男子是否将双肩向后收并挺直上身？	该结果是否在 4 秒内实现？
+1889	synthetic_human_030_E2A	make	Starting at 29.5 seconds, make the pale curtain in the right background billow inward and outward twice over four seconds.	右侧背景中的浅色窗帘是否向内和向外鼓动两次？	该结果是否在 4 秒内实现？
+1903	synthetic_human_035_E1	make	Starting at 12.5 seconds, make the man's right index finger tap the silver tie clip twice over two and a half seconds.	男子右手食指是否轻敲银色领带夹两次？	该结果是否在 2.5 秒内实现？
+1912	synthetic_human_038_E1	make	At 12.5 seconds, make the woman tending seedlings gradually form a gentle smile over the next three seconds.	照料幼苗的女子是否逐渐露出温和的微笑？	该结果是否在 3 秒内实现？
+1916	synthetic_human_039_E2A	make	At 30.0 seconds, make the man beside the sea gradually form a relaxed closed-lip smile over the next three seconds.	海边男子是否逐渐露出放松的闭唇微笑？	该结果是否在 3 秒内实现？
+1919	synthetic_human_040_E2A	make	Starting at 29.0 seconds, make both hands rotate the chain pocket watch clockwise through one full turn over three seconds.	双手是否将带链怀表顺时针旋转完整一圈？	该结果是否在 3 秒内实现？
+1920	synthetic_human_040_E2B	begin	Starting at 25.0 seconds, begin lifting the chain pocket watch and bring it fully into the raised inspection position by 28.0 seconds.	带链怀表是否被完全抬到升高的检查位置？	该动作是否在 3 秒内完成？
+1926	synthetic_human_042_E2B	give	Starting at 25.5 seconds, give the visible skin on the practitioner's face and hands a subtle warm bronze tone over two seconds.	练习者面部和双手的可见皮肤是否呈现微妙的暖青铜色调？	该变化是否在 2 秒内完成？
+1935	synthetic_human_045_E2B	make	Starting at 25.5 seconds, make the tai chi practitioner complete one slow clockwise turn in the wide stance within five seconds.	太极练习者是否保持宽站姿并缓慢顺时针转一整圈？	该结果是否在 5 秒内实现？
+1940	synthetic_human_047_E2A	give	Starting at 29.0 seconds, give the warehouse worker's two clearly visible hands a subtle warm tan over two seconds.	仓库工人两只清晰可见的手是否呈现微妙的暖棕肤色？	该变化是否在 2 秒内完成？
+1945	synthetic_human_049_E1	make	At 12.5 seconds, make the seated older woman gradually form a gentle closed-lip smile over the next three seconds.	坐着的年长女子是否逐渐露出温和的闭唇微笑？	该结果是否在 3 秒内实现？
+1953	synthetic_human_051_E2B	make	At 25.5 seconds, make the woman seated on the right gradually form a small closed-lip smile over the next three seconds.	坐在右侧的女子是否逐渐露出轻微的闭唇微笑？	该结果是否在 3 秒内实现？
+1967	synthetic_human_056_E2A	make	At 29.0 seconds, make the seated woman draw her shoulders back and straighten her upper torso over four seconds.	坐着的女子是否将双肩向后收并挺直上身？	该结果是否在 4 秒内实现？
+1984	synthetic_human_062_E1	make	Starting at 11.5 seconds, make the woman at the waterfront gradually form a relaxed closed-lip smile over three seconds.	滨水区的女子是否逐渐露出放松的闭唇微笑？	该结果是否在 3 秒内实现？
+1990	synthetic_human_064_E1	make	Starting at 13.5 seconds, make the woman seated on the right gradually form a small closed-lip smile over three seconds.	坐在右侧的女子是否逐渐露出轻微的闭唇微笑？	该结果是否在 3 秒内实现？
+2000	synthetic_human_067_E2A	dolly	Beginning at 33.0 seconds, dolly the camera smoothly one meter toward the two seated women over three seconds.	镜头是否平滑地向两名坐着的女子推进 1 米？	该镜头移动是否在 3 秒内完成？
+2009	synthetic_human_070_E2A	make	Starting at 30.0 seconds, make the seated salon client gradually form a small satisfied closed-lip smile over three seconds.	坐着的沙龙顾客是否逐渐露出轻微而满意的闭唇微笑？	该结果是否在 3 秒内实现？
+2015	synthetic_human_072_E2A	add	Starting at 30.5 seconds, add soft warm frontal fill light across both women's faces and upper bodies over two and a half seconds.	两名女子的面部和上半身是否获得柔和暖色正面补光？	该添加是否在 2.5 秒内完成？
+2019	synthetic_human_073_E2B	make	Starting at 26.0 seconds, make the woman on the right gradually form a warm closed-lip smile over three seconds.	右侧女子是否逐渐露出温暖的闭唇微笑？	该结果是否在 3 秒内实现？
+2111	synthetic_object_004_E2A	add	Starting at 28.0 seconds, add a warm golden rim light along the horse's visible outer silhouette over two seconds.	马可见的外轮廓是否添加温暖的金色轮廓光？	该添加是否在 2 秒内完成？
+2131	synthetic_object_011_E1	turn	Starting at 16.5 seconds, turn the giraffe's head and upper neck to face the camera over the next 1.5 seconds.	长颈鹿的头部和上颈是否转向镜头？	该转向是否在 1.5 秒内完成？
+2162	synthetic_object_021_E2A	grade	Starting at 31 seconds, grade the full wet mountain-road scene with cool cyan-and-silver tones over the next two seconds.	整个湿滑山路场景是否呈现冷青色与银色调？	该调色是否在 2 秒内完成？
+2167	synthetic_object_023_E1	make	Starting at 14 seconds, make the two visible closed side doors on the bus swing fully open over the next two seconds.	公交车上两扇可见的关闭侧门是否都完全打开？	该结果是否在 2 秒内实现？
+2176	synthetic_object_026_E1	make	Starting at 14.5 seconds, make the freight train decelerate smoothly to a complete stop along the curved track over four seconds.	货运列车是否沿弯曲轨道平滑减速并完全停止？	该结果是否在 4 秒内实现？
+2192	synthetic_object_031_E2A	make	Starting at 32 seconds, make the visible roadside tree branches sway back and forth through two broad wind-driven arcs over five seconds.	可见的路边树枝是否受风驱动大幅来回摆动两次？	该结果是否在 5 秒内实现？
+2209	synthetic_object_037_E1	make	Starting at 12.5 seconds, make two broad diagonal ripple fronts travel across the lake toward the shore over five seconds.	两道宽阔的斜向波纹前沿是否横穿湖面并向岸边传播？	该结果是否在 5 秒内实现？
+2220	synthetic_object_040_E2B	raise	Starting at 28 seconds, raise the camera smoothly into a high rear tracking view above the trolleybus over five seconds.	镜头是否平滑抬高到无轨电车上方的高位后方跟拍视角？	该升高是否在 5 秒内完成？
+2229	synthetic_object_043_E2B	coat	Starting at 20 seconds, coat the uppermost visible blue container row with a thin layer of frost over two seconds.	最上方可见的蓝色集装箱一排是否覆上一层薄霜？	该涂覆是否在 2 秒内完成？
+2232	synthetic_object_044_E2B	compress	Starting at 25.5 seconds, compress and flatten the front section of the tugboat's thick black bow fender over two seconds.	拖船厚实黑色船首护舷的前段是否被压缩并压平？	该压缩是否在 2 秒内完成？
+2233	synthetic_object_045_E1	make	Starting at 12.5 seconds, make the catamaran's forward sail flap outward and return twice over four seconds.	双体船前帆是否向外摆动并返回两次？	该结果是否在 4 秒内实现？
+2278	synthetic_object_060_E1	bend	Starting at 13.5 seconds, bend the underwater vehicle's near-side yellow wingtip visibly upward over the next two seconds.	水下航行器近侧黄色翼尖是否明显向上弯曲？	该弯曲是否在 2 秒内完成？
+2281	synthetic_object_061_E1	illuminate	Starting at 12 seconds, illuminate the gripped metal gear with a cool circular inspection light over the next two seconds.	被夹持的金属齿轮是否由冷色圆形检查灯照亮？	该照明是否在 2 秒内完成？
+2295	synthetic_object_065_E2B	line	Starting at 25.5 seconds, line the machining enclosure's light-gray rear wall with dark-blue oil-resistant panels over two seconds.	加工舱浅灰色后墙是否铺设深蓝色耐油面板？	该铺设是否在 2 秒内完成？
+2314	synthetic_object_072_E1	make	Starting at 13.5 seconds, make the overhead spray jets sweep left and right across the plates twice over five seconds.	上方喷淋水柱是否横跨盘子左右扫动两次？	该结果是否在 5 秒内实现？
+2316	synthetic_object_072_E2B	move	Starting at 25.5 seconds, move the camera smoothly from the rightmost plate to the leftmost plate over five seconds.	镜头是否从最右侧盘子平滑移动到最左侧盘子？	该移动是否在 5 秒内完成？
+2380	synthetic_object_094_E1	make	Starting at 16 seconds, make the extended yellow measuring tape slack with two broad downward bends over the next two seconds.	伸出的黄色卷尺是否变松并形成两个宽阔的向下弯曲？	该结果是否在 2 秒内实现？
+2384	synthetic_object_095_E2A	coat	Starting at 35.5 seconds, coat the scissors' visible outer silver ring handle in glossy bright red enamel over two seconds.	剪刀可见的外侧银色环形手柄是否涂上亮面鲜红色搪瓷？	该涂覆是否在 2 秒内完成？
+2402	synthetic_process_001_E2A	make	Starting at 25.5 seconds, make the foreground grass bend rightward in three traveling wind waves over five seconds.	前景草地是否随三道传播的风浪向右弯曲？	该结果是否在 5 秒内实现？
+2407	synthetic_process_003_E1	add	Starting at 14.5 seconds, add a warm low sidelight across the left third of the grass field over two seconds.	草地左侧三分之一区域是否添加温暖的低角度侧光？	该添加是否在 2 秒内完成？
+2419	synthetic_process_007_E1	advance	Starting at 12.0 seconds, advance the rainbow until a continuous saturated arc spans the landscape by 16.5 seconds.	一条连续饱和的彩虹弧线是否形成并横跨景观？	该推进是否在 4.5 秒内完成？
+2423	synthetic_process_008_E2A	make	Starting at 22.5 seconds, make dense black smoke begin rising from the burning tree crown within one second.	浓密黑烟是否开始从燃烧的树冠升起？	该结果是否在 1 秒内实现？
+2437	synthetic_process_013_E1	smoothly	Starting at 14.5 seconds, smoothly zoom in on the brightest central aurora band over five seconds.	镜头是否平滑拉近并聚焦于最明亮的中央极光带？	该镜头变焦是否在 5 秒内完成？
+2439	synthetic_process_013_E2B	make	Starting at 29.0 seconds, make the visible aurora bands ripple upward in three successive waves over five seconds.	可见的极光带是否分三道连续波浪向上起伏？	该结果是否在 5 秒内实现？
+2453	synthetic_process_018_E2A	make	Starting at 27.0 seconds, make the dust wall's upper edge curl upward in three rolling waves over five seconds.	沙尘墙的上缘是否以三道翻滚波浪向上卷曲？	该结果是否在 5 秒内实现？
+2463	synthetic_process_021_E2B	make	Starting at 28.5 seconds, make the dark cloud layer's lower edge send three ripples from right to left over five seconds.	暗色云层的下缘是否由右向左传出三道波纹？	该结果是否在 5 秒内实现？
+2466	synthetic_process_022_E2B	add	Starting at 28.5 seconds, add warm low sidelight to the left-shore building and nearest tree crowns over two seconds.	左岸建筑和最近的树冠是否被添加暖色低角度侧光？	该添加是否在 2 秒内完成？
+2489	synthetic_process_030_E2A	make	Starting at 28.5 seconds, make three fog tendrils along the upper boundary curl upward one after another over five seconds.	上部边界沿线的三缕雾气是否依次向上卷曲？	该结果是否在 5 秒内实现？
+2498	synthetic_process_033_E2A	make	Starting at 29.0 seconds, make the descending amber strand trace one small clockwise circle around the pool center over five seconds.	向下流动的琥珀色液柱是否围绕液池中心顺时针画一个小圆圈？	该结果是否在 5 秒内实现？
+2512	synthetic_process_038_E1	make	Starting at 14.0 seconds, make the single central fountain jet bend left and right twice over five seconds.	中央单股喷泉水柱是否左右弯曲 2 次？	该结果是否在 5 秒内实现？
+2525	synthetic_process_042_E2A	split	Starting at 29.0 seconds, split the single red-blue interface spiral into two nested spiral arms over two seconds.	单条红蓝界面螺旋是否分成两条嵌套的螺旋臂？	该分裂是否在 2 秒内完成？
+2538	synthetic_process_046_E2B	make	Starting at 28.5 seconds, make three concentric ripple rings travel outward across the brown liquid pool over five seconds.	三道同心波纹环是否向外传播并越过棕色液池？	该结果是否在 5 秒内实现？
+2540	synthetic_process_047_E2A	make	Starting at 29.0 seconds, make three surface ripple rings expand outward successively from the mold center over five seconds.	三道表面波纹环是否依次从模具中心向外扩散？	该结果是否在 5 秒内实现？
+2556	synthetic_process_052_E2B	make	Starting at 28.5 seconds, make the largest visible surface bubble complete one clockwise orbit around the pan center over five seconds.	可见的最大表面气泡是否绕锅中心顺时针运行一周？	该结果是否在 5 秒内实现？
+2571	synthetic_process_057_E2B	make	Starting at 28.5 seconds, make the two central surface bubbles complete one clockwise orbit around their shared midpoint over five seconds.	中央两个表面气泡是否围绕它们的共同中点顺时针运行一周？	该结果是否在 5 秒内实现？
+2591	synthetic_process_064_E2A	split	Starting at 29.0 seconds, split the black wrapping layer into separate upper and lower bands over two seconds.	黑色包裹层是否分成彼此分离的上、下两条带？	该分裂是否在 2 秒内完成？
+2602	synthetic_process_068_E1	rotate	Starting at 15.0 seconds, rotate the four foreground fruits a quarter-turn in alternating directions over five seconds.	前景中的四个果实是否以交替方向各旋转四分之一圈？	该旋转是否在 5 秒内完成？
+2655	synthetic_process_085_E2B	make	Starting at 27.5 seconds, make two broad foam waves travel clockwise around the whisk over five seconds.	两道宽阔泡沫波是否围绕打蛋器顺时针传播？	该结果是否在 5 秒内实现？
+2659	synthetic_process_087_E1	make	Starting at 18.5 seconds, make the worker move the metal trowel through three left-to-right spreading passes over five seconds.	工人是否使用金属抹子完成三次从左向右的铺抹动作？	该结果是否在 5 秒内实现？
+2664	synthetic_process_088_E2B	make	Starting at 28.5 seconds, make the right hand circle twice above the central puzzle gap over four seconds.	右手是否于中央拼图缺口上方绕圈两次？	该结果是否在 4 秒内实现？
+2675	synthetic_process_092_E2A	make	Starting at 28.0 seconds, make the right hand pull the active weaving strip outward in two steady tugs over five seconds.	右手是否以两次平稳拉动将正在编织的条带向外拉？	该结果是否在 5 秒内实现？
+2687	synthetic_process_096_E2A	make	Starting at 27.0 seconds, make the gloved hand trace two complete clockwise circles around the central yellow disc over five seconds.	戴手套的手是否围绕中央黄色圆盘顺时针完整画两圈？	该结果是否在 5 秒内实现？
+2699	synthetic_process_100_E2A	make	Starting at 28.0 seconds, make the left-side black pump rock gently forward and backward twice over five seconds.	左侧黑色泵是否轻柔地前后摇动 2 次？	该结果是否在 5 秒内实现？
+2724	synthetic_scene_008_E2B	freeze	Starting at 20.5 seconds, freeze the visible pool water into a continuous pale-blue ice surface over four seconds.	可见的泳池水是否冻结成连续的浅蓝色冰面？	该冻结是否在 4 秒内完成？
+2748	synthetic_scene_016_E2B	make	Starting at 30.0 seconds, make the entrance mat's near edge lift and settle through three gentle arcs over five seconds.	入口地垫的近侧边缘是否经过三次轻柔弧形起伏后落回？	该结果是否在 5 秒内实现？
+2773	synthetic_scene_025_E1	make	Starting at 13.0 seconds, make the stopped bus's nearest visible folding door open steadily over four seconds.	停靠公交车最近的可见折叠门是否平稳打开？	该结果是否在 4 秒内实现？
+2774	synthetic_scene_025_E2A	freeze	Starting at 29.0 seconds, freeze the clearly visible platform-sidewalk puddles into thin translucent ice patches over three seconds.	站台人行道上清晰可见的水洼是否冻结成薄而半透明的冰面斑块？	该冻结是否在 3 秒内完成？
+2858	synthetic_scene_053_E2A	increase	Starting at 29.0 seconds, increase the right round softbox illumination evenly across the studio backdrop over two and a half seconds.	右侧圆形柔光箱投射在影棚背景上的照明是否均匀增强？	该增加是否在 2.5 秒内完成？
+2868	synthetic_scene_056_E2B	freeze	Starting at 27.0 seconds, freeze the visible marina water into a continuous translucent blue-gray ice sheet over four seconds.	码头内可见的水面是否冻结成连续的半透明蓝灰色冰层？	该冻结是否在 4 秒内完成？
+2879	synthetic_scene_060_E2A	make	Starting at 24.0 seconds, make the blue service cart roll steadily forward two meters into the corridor over four seconds.	蓝色服务推车是否稳定地向通道内前进 2 米？	该结果是否在 4 秒内实现？
+2894	synthetic_scene_065_E2A	make	Starting at 26.0 seconds, make the visible wall-fan blades rotate clockwise through two complete cycles by 29.0 seconds.	可见的壁扇叶片是否顺时针完整旋转 2 圈？	该结果是否在 3 秒内实现？
+2943	synthetic_scene_081_E2B	intensify	Starting at 27.0 seconds, intensify the blue-white underwater caustic bands moving across the central sand patch over three seconds.	掠过中央沙地斑块的蓝白色水下焦散光带是否增强？	该增强是否在 3 秒内完成？
+2951	synthetic_scene_084_E2A	make	Starting at 30.0 seconds, make the visible turbine blade tip sweep twice through the upper-left frame edge by 33.0 seconds.	可见的涡轮叶片尖端是否两次掠过画面左上边缘？	该结果是否在 3 秒内实现？
+2977	synthetic_scene_093_E1	cast	Starting at 14.0 seconds, cast a broad warm sunlight band across the central atrium floor and lower bookshelf fronts over three seconds.	一道宽阔的暖色阳光带是否照过中庭中央地面和书架下部正面？	该光照添加是否在 3 秒内完成？
