@@ -1,0 +1,86 @@
+﻿method,sample_id,edit_id,video_id,split,video_type,edge,failure_type,last_error
+JoyAI-edit,human_033_E2A__JoyAI-edit,human_033_E2A,human_033,real,human,E2A,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+JoyAI-edit,human_125_E2B__JoyAI-edit,human_125_E2B,human_125,real,human,E2B,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+JoyAI-edit,human_159_E2B__JoyAI-edit,human_159_E2B,human_159,real,human,E2B,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+JoyAI-edit,object_015_E2A__JoyAI-edit,object_015_E2A,object_015,real,object,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 110 != 111')
+JoyAI-edit,object_053_E1__JoyAI-edit,object_053_E1,object_053,real,object,E1,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 00 != 10')
+JoyAI-edit,process_122_E2A__JoyAI-edit,process_122_E2A,process_122,real,process,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 0000 != 1100')
+JoyAI-edit,process_137_E2A__JoyAI-edit,process_137_E2A,process_137,real,process,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 100')
+JoyAI-edit,embodied_057_E2A__JoyAI-edit,embodied_057_E2A,embodied_057,real,embodied,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 110')
+JoyAI-edit,embodied_092_E2A__JoyAI-edit,embodied_092_E2A,embodied_092,real,embodied,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 0000 != 1100')
+JoyAI-edit,embodied_096_E2A__JoyAI-edit,embodied_096_E2A,embodied_096,real,embodied,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 001 != 100')
+JoyAI-edit,synthetic_object_036_E2A__JoyAI-edit,synthetic_object_036_E2A,synthetic_object_036,synthetic,object,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 100')
+JoyAI-edit,synthetic_embodied_084_E2A__JoyAI-edit,synthetic_embodied_084_E2A,synthetic_embodied_084,synthetic,embodied,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 111')
+LiveEdit,human_125_E2B__LiveEdit,human_125_E2B,human_125,real,human,E2B,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+LiveEdit,scene_016_E1__LiveEdit,scene_016_E1,scene_016,real,scene,E1,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 001 != 101')
+LiveEdit,embodied_092_E2A__LiveEdit,embodied_092_E2A,embodied_092,real,embodied,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 0000 != 1100')
+LiveEdit,embodied_110_E2A__LiveEdit,embodied_110_E2A,embodied_110,real,embodied,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 0000 != 1100')
+LiveEdit,synthetic_object_036_E2A__LiveEdit,synthetic_object_036_E2A,synthetic_object_036,synthetic,object,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 100')
+LiveEdit,synthetic_object_085_E2A__LiveEdit,synthetic_object_085_E2A,synthetic_object_085,synthetic,object,E2A,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+LiveEdit,synthetic_scene_062_E2B__LiveEdit,synthetic_scene_062_E2B,synthetic_scene_062,synthetic,scene,E2B,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+LiveEdit,synthetic_embodied_032_E2B__LiveEdit,synthetic_embodied_032_E2B,synthetic_embodied_032,synthetic,embodied,E2B,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+LiveEdit,synthetic_embodied_084_E2A__LiveEdit,synthetic_embodied_084_E2A,synthetic_embodied_084,synthetic,embodied,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 100')
+Lucy-Edit,human_033_E2A__Lucy-Edit,human_033_E2A,human_033,real,human,E2A,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+Lucy-Edit,human_125_E2B__Lucy-Edit,human_125_E2B,human_125,real,human,E2B,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+Lucy-Edit,process_183_E1__Lucy-Edit,process_183_E1,process_183,real,process,E1,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 00 != 10')
+Lucy-Edit,embodied_092_E2A__Lucy-Edit,embodied_092_E2A,embodied_092,real,embodied,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 0001 != 1100')
+Lucy-Edit,synthetic_human_032_E2B__Lucy-Edit,synthetic_human_032_E2B,synthetic_human_032,synthetic,human,E2B,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+Lucy-Edit,synthetic_scene_041_E1__Lucy-Edit,synthetic_scene_041_E1,synthetic_scene_041,synthetic,scene,E1,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+Lucy-Edit,synthetic_scene_052_E2B__Lucy-Edit,synthetic_scene_052_E2B,synthetic_scene_052,synthetic,scene,E2B,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+Lucy-Edit,synthetic_embodied_084_E2A__Lucy-Edit,synthetic_embodied_084_E2A,synthetic_embodied_084,synthetic,embodied,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 100')
+SANA-Streaming-edit,human_033_E1__SANA-Streaming-edit,human_033_E1,human_033,real,human,E1,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 0000 != 1110')
+SANA-Streaming-edit,human_033_E2A__SANA-Streaming-edit,human_033_E2A,human_033,real,human,E2A,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+SANA-Streaming-edit,human_125_E2B__SANA-Streaming-edit,human_125_E2B,human_125,real,human,E2B,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+SANA-Streaming-edit,human_130_E1__SANA-Streaming-edit,human_130_E1,human_130,real,human,E1,持续性与current数组矛盾,EvaluationError('Persistent edit requires current_frame_status with 45 entries')
+SANA-Streaming-edit,human_130_E2B__SANA-Streaming-edit,human_130_E2B,human_130,real,human,E2B,持续性与current数组矛盾,EvaluationError('Persistent edit requires current_frame_status with 45 entries')
+SANA-Streaming-edit,human_159_E2B__SANA-Streaming-edit,human_159_E2B,human_159,real,human,E2B,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+SANA-Streaming-edit,human_198_E2A__SANA-Streaming-edit,human_198_E2A,human_198,real,human,E2A,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+SANA-Streaming-edit,process_122_E2A__SANA-Streaming-edit,process_122_E2A,process_122,real,process,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 0000 != 1111')
+SANA-Streaming-edit,process_125_E1__SANA-Streaming-edit,process_125_E1,process_125,real,process,E1,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 00 != 10')
+SANA-Streaming-edit,process_137_E2A__SANA-Streaming-edit,process_137_E2A,process_137,real,process,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 100')
+SANA-Streaming-edit,process_183_E1__SANA-Streaming-edit,process_183_E1,process_183,real,process,E1,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 00 != 10')
+SANA-Streaming-edit,embodied_093_E2B__SANA-Streaming-edit,embodied_093_E2B,embodied_093,real,embodied,E2B,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 110')
+SANA-Streaming-edit,synthetic_object_036_E2A__SANA-Streaming-edit,synthetic_object_036_E2A,synthetic_object_036,synthetic,object,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 100')
+SANA-Streaming-edit,synthetic_scene_052_E2B__SANA-Streaming-edit,synthetic_scene_052_E2B,synthetic_scene_052,synthetic,scene,E2B,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+SANA-Streaming-edit,synthetic_embodied_039_E2A__SANA-Streaming-edit,synthetic_embodied_039_E2A,synthetic_embodied_039,synthetic,embodied,E2A,持续性与current数组矛盾,EvaluationError('Persistent edit requires current_frame_status with 45 entries')
+SANA-Streaming-edit,synthetic_embodied_084_E2A__SANA-Streaming-edit,synthetic_embodied_084_E2A,synthetic_embodied_084,synthetic,embodied,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 100')
+StreamDiffusionV2-edit,human_033_E2A__StreamDiffusionV2-edit,human_033_E2A,human_033,real,human,E2A,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+StreamDiffusionV2-edit,human_125_E2B__StreamDiffusionV2-edit,human_125_E2B,human_125,real,human,E2B,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+StreamDiffusionV2-edit,human_130_E2B__StreamDiffusionV2-edit,human_130_E2B,human_130,real,human,E2B,JSON未闭合或截断,JSONDecodeError('Unterminated string starting at: line 1 column 2053 (char 2052)')
+StreamDiffusionV2-edit,scene_016_E1__StreamDiffusionV2-edit,scene_016_E1,scene_016,real,scene,E1,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 100')
+StreamDiffusionV2-edit,scene_180_E2A__StreamDiffusionV2-edit,scene_180_E2A,scene_180,real,scene,E2A,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+StreamDiffusionV2-edit,process_137_E2A__StreamDiffusionV2-edit,process_137_E2A,process_137,real,process,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 100')
+StreamDiffusionV2-edit,process_183_E1__StreamDiffusionV2-edit,process_183_E1,process_183,real,process,E1,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 00 != 10')
+StreamDiffusionV2-edit,embodied_092_E2A__StreamDiffusionV2-edit,embodied_092_E2A,embodied_092,real,embodied,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 0100 != 1100')
+StreamDiffusionV2-edit,embodied_093_E2B__StreamDiffusionV2-edit,embodied_093_E2B,embodied_093,real,embodied,E2B,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 110')
+StreamDiffusionV2-edit,embodied_122_E2A__StreamDiffusionV2-edit,embodied_122_E2A,embodied_122,real,embodied,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 00 != 10')
+StreamDiffusionV2-edit,synthetic_human_032_E2B__StreamDiffusionV2-edit,synthetic_human_032_E2B,synthetic_human_032,synthetic,human,E2B,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+StreamDiffusionV2-edit,synthetic_object_036_E2A__StreamDiffusionV2-edit,synthetic_object_036_E2A,synthetic_object_036,synthetic,object,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 101')
+StreamDiffusionV2-edit,synthetic_object_085_E2A__StreamDiffusionV2-edit,synthetic_object_085_E2A,synthetic_object_085,synthetic,object,E2A,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+StreamDiffusionV2-edit,synthetic_embodied_032_E2B__StreamDiffusionV2-edit,synthetic_embodied_032_E2B,synthetic_embodied_032,synthetic,embodied,E2B,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+StreamDiffusionV2-edit,synthetic_embodied_084_E2A__StreamDiffusionV2-edit,synthetic_embodied_084_E2A,synthetic_embodied_084,synthetic,embodied,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 100')
+StreamEdit,human_033_E2A__StreamEdit,human_033_E2A,human_033,real,human,E2A,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+StreamEdit,human_125_E2B__StreamEdit,human_125_E2B,human_125,real,human,E2B,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+StreamEdit,human_130_E1__StreamEdit,human_130_E1,human_130,real,human,E1,持续性与current数组矛盾,EvaluationError('Persistent edit requires current_frame_status with 45 entries')
+StreamEdit,human_130_E2B__StreamEdit,human_130_E2B,human_130,real,human,E2B,持续性与current数组矛盾,EvaluationError('Persistent edit requires current_frame_status with 45 entries')
+StreamEdit,object_014_E2B__StreamEdit,object_014_E2B,object_014,real,object,E2B,持续性与current数组矛盾,EvaluationError('Persistent edit requires current_frame_status with 45 entries')
+StreamEdit,object_019_E2B__StreamEdit,object_019_E2B,object_019,real,object,E2B,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 00 != 10')
+StreamEdit,process_137_E2A__StreamEdit,process_137_E2A,process_137,real,process,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 100')
+StreamEdit,process_183_E1__StreamEdit,process_183_E1,process_183,real,process,E1,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 00 != 10')
+StreamEdit,embodied_088_E1__StreamEdit,embodied_088_E1,embodied_088,real,embodied,E1,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 010 != 110')
+StreamEdit,embodied_092_E2A__StreamEdit,embodied_092_E2A,embodied_092,real,embodied,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 0100 != 1100')
+StreamEdit,synthetic_object_036_E2A__StreamEdit,synthetic_object_036_E2A,synthetic_object_036,synthetic,object,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 101')
+StreamEdit,synthetic_object_085_E2A__StreamEdit,synthetic_object_085_E2A,synthetic_object_085,synthetic,object,E2A,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+StreamEdit,synthetic_embodied_039_E2A__StreamEdit,synthetic_embodied_039_E2A,synthetic_embodied_039,synthetic,embodied,E2A,持续性与current数组矛盾,EvaluationError('Persistent edit requires current_frame_status with 45 entries')
+StreamEdit,synthetic_embodied_084_E2A__StreamEdit,synthetic_embodied_084_E2A,synthetic_embodied_084,synthetic,embodied,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 100')
+Wan2.1-VACE,human_033_E1__Wan2.1-VACE,human_033_E1,human_033,real,human,E1,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 0000 != 1110')
+Wan2.1-VACE,human_033_E2A__Wan2.1-VACE,human_033_E2A,human_033,real,human,E2A,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+Wan2.1-VACE,human_130_E1__Wan2.1-VACE,human_130_E1,human_130,real,human,E1,持续性与current数组矛盾,EvaluationError('Persistent edit requires current_frame_status with 45 entries')
+Wan2.1-VACE,human_130_E2B__Wan2.1-VACE,human_130_E2B,human_130,real,human,E2B,持续性与current数组矛盾,EvaluationError('Persistent edit requires current_frame_status with 45 entries')
+Wan2.1-VACE,process_137_E2A__Wan2.1-VACE,process_137_E2A,process_137,real,process,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 100')
+Wan2.1-VACE,process_183_E1__Wan2.1-VACE,process_183_E1,process_183,real,process,E1,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 00 != 10')
+Wan2.1-VACE,synthetic_object_036_E2A__Wan2.1-VACE,synthetic_object_036_E2A,synthetic_object_036,synthetic,object,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 100')
+Wan2.1-VACE,synthetic_object_085_E2A__Wan2.1-VACE,synthetic_object_085_E2A,synthetic_object_085,synthetic,object,E2A,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+Wan2.1-VACE,synthetic_scene_052_E2B__Wan2.1-VACE,synthetic_scene_052_E2B,synthetic_scene_052,synthetic,scene,E2B,pass与失败原因矛盾,"EvaluationError(""Invalid failure_reason: 'none'"")"
+Wan2.1-VACE,synthetic_embodied_039_E2A__Wan2.1-VACE,synthetic_embodied_039_E2A,synthetic_embodied_039,synthetic,embodied,E2A,持续性与current数组矛盾,EvaluationError('Persistent edit requires current_frame_status with 45 entries')
+Wan2.1-VACE,synthetic_embodied_084_E2A__Wan2.1-VACE,synthetic_embodied_084_E2A,synthetic_embodied_084,synthetic,embodied,E2A,累计位与最终pass矛盾,EvaluationError('Final cumulative status must equal final atom pass vector: 000 != 100')

@@ -1,0 +1,18 @@
+{
+  "production_runtime_memory.csv": "3edf6d4a394128a83a67ec5217aa8b17809c7befc694547c596e2b8e36f389dc",
+  "verified_result_files.json": "a0b47bbec77d8dd69bdc086dedd4e7baaeaaa09aaf75e7a696840a25cec13792",
+  "retry_request_variation.csv": "364621fc4cc6064a776c134b29c82ef36d4baefedd8492218a3faa195f11c1af",
+  "README.md": "4215364369f0716768d0722d0323b3f35241c5a46673d1c16eb4ff4257565d0d",
+  "bootstrap_rank_frequencies.json": "30c672e2fa10ba39d356c500ef6c3a1d3df5aaa25ff755efdf1a5d1b0e521577",
+  "failed_interactions.csv": "ff87230768ea968963ff85a7fbe88a315d6f81a41e49cb00ec4ca0a8945977cd",
+  "scores_and_ranks.csv": "b5643eeb595bada9794928559dc80c2892a0c34087cb6cefcbe965817c086c55",
+  "failure_audit.json": "ef511b86a53b53bffba908c165fc627036363882f3775d30e18a7d4ec465efb1",
+  "analysis_provenance.json": "bacb19ed540a7e69938ee3ab8f20b1b21ec7261da20edb5aa2d47b9bf037a78e",
+  "group_ranking_agreement.csv": "d9bc1ded2a862eb4c52e6422438f950e44f33b5241e1bbcb4280513ffa0f0738",
+  "resources.json": "24c249df3d0a381ab109665355127de4bc03464f23845915cd1617b09760a1ad",
+  "ranking_agreement.csv": "f24b4703dd1f61f8f6e5bdae3f97a466e292d9179cf4e93f065947679c76046e",
+  "build_final_9b_result.py": "d5d8f4bf1c4458e19bf71c2d2a3d46381c4c7585df28b30925f5d60c87dc4f4e",
+  "CORE_RESULTS.md": "2c5350bb1e8b98911cdd294df2b0c33dad601799526e8a95861f24a5609805b8",
+  "retry_success_and_failures.csv": "25cde7e9f6d9e55942cb9b1ee0e4db5a7e90836257af71780d8828f3e4643662",
+  "pairwise_21_comparisons.csv": "93269bedb03f5c4520e0f5cf91fedefd284aab646b77bd3ab615f68de75942b8"
+}

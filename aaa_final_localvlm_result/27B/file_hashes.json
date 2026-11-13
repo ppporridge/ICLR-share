@@ -1,0 +1,13 @@
+{
+  "production_runtime_memory.csv": "7190b4777c1ae9bb3525a3fed024e9dfae6d9911e293b5b5efa687d5a5d791ad",
+  "README.md": "285c20197313c386e49fa39ce7da04686ab596983119a635c62b629b43076460",
+  "build_final_localvlm_result.py": "653b313240ee5b8c94c098a60a6654570509fb6222a7ad0b5cf23379532c808c",
+  "bootstrap_rank_frequencies.json": "66f33e6f131bf0721a7410ac292f411f63b22607e90c7383606e56bc0d06912a",
+  "scores_and_ranks.csv": "b174b40fd7ddd142291754b35207aa1cdfdde18a075e0f5d82efb837d46bda55",
+  "analysis_provenance.json": "7fb75a70af7e7ee496f0255cb51390ba85bef8456226f8a7158d9a3f588d25d2",
+  "group_ranking_agreement.csv": "c3686c98ff48a2a68c36c7da8eda8f26bed87d9be5a60b3899cb11203184a2b1",
+  "resources.json": "96d88f4ead885ee5a620956be677a347417de1e4ff6ee858abac7c00a5b861aa",
+  "ranking_agreement.csv": "805fc3b6b087e0e9a6ee0264eca75ca554c1e48000563d2a6ead43aa48aaed61",
+  "CORE_RESULTS.md": "ab6a47ad1efc7922ca05e0d21346880dc50ef73a36fc47605fc254915ba8a2cd",
+  "pairwise_21_comparisons.csv": "a049c0a4e23a22bcb05388c0b898eee34b0a23ca25fce675eb2680b4cacf81cf"
+}

@@ -1,0 +1,1766 @@
+[
+  {
+    "metric": "EFA",
+    "judge": "Qwen",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.8505,
+      0.1495,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "EFA",
+    "judge": "Qwen",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.1495,
+      0.8475,
+      0.003,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "EFA",
+    "judge": "Qwen",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0375,
+      0.2945,
+      0.404,
+      0.264
+    ]
+  },
+  {
+    "metric": "EFA",
+    "judge": "Qwen",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.011,
+      0.1275,
+      0.2485,
+      0.613
+    ]
+  },
+  {
+    "metric": "EFA",
+    "judge": "Qwen",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.002,
+      0.0605,
+      0.493,
+      0.323,
+      0.1215
+    ]
+  },
+  {
+    "metric": "EFA",
+    "judge": "Qwen",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.0,
+      0.003,
+      0.914,
+      0.0785,
+      0.0045,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "EFA",
+    "judge": "Qwen",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.081,
+      0.8125,
+      0.0805,
+      0.0245,
+      0.0015
+    ]
+  },
+  {
+    "metric": "IS_g",
+    "judge": "Qwen",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.95,
+      0.05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "IS_g",
+    "judge": "Qwen",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.05,
+      0.9295,
+      0.0205,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "IS_g",
+    "judge": "Qwen",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.001,
+      0.0735,
+      0.384,
+      0.378,
+      0.1635
+    ]
+  },
+  {
+    "metric": "IS_g",
+    "judge": "Qwen",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0055,
+      0.076,
+      0.187,
+      0.7315
+    ]
+  },
+  {
+    "metric": "IS_g",
+    "judge": "Qwen",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0015,
+      0.0625,
+      0.434,
+      0.397,
+      0.105
+    ]
+  },
+  {
+    "metric": "IS_g",
+    "judge": "Qwen",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.0,
+      0.0205,
+      0.917,
+      0.06,
+      0.0025,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "IS_g",
+    "judge": "Qwen",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.06,
+      0.7985,
+      0.1035,
+      0.038,
+      0.0
+    ]
+  },
+  {
+    "metric": "SOL",
+    "judge": "Qwen",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.008,
+      0.045,
+      0.117,
+      0.2475,
+      0.2685,
+      0.231,
+      0.083
+    ]
+  },
+  {
+    "metric": "SOL",
+    "judge": "Qwen",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.577,
+      0.301,
+      0.092,
+      0.019,
+      0.01,
+      0.001,
+      0.0
+    ]
+  },
+  {
+    "metric": "SOL",
+    "judge": "Qwen",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.001,
+      0.019,
+      0.025,
+      0.0855,
+      0.1365,
+      0.2705,
+      0.4625
+    ]
+  },
+  {
+    "metric": "SOL",
+    "judge": "Qwen",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.005,
+      0.028,
+      0.076,
+      0.146,
+      0.205,
+      0.2445,
+      0.2955
+    ]
+  },
+  {
+    "metric": "SOL",
+    "judge": "Qwen",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.055,
+      0.084,
+      0.185,
+      0.202,
+      0.187,
+      0.16,
+      0.127
+    ]
+  },
+  {
+    "metric": "SOL",
+    "judge": "Qwen",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.281,
+      0.336,
+      0.24,
+      0.083,
+      0.039,
+      0.013,
+      0.008
+    ]
+  },
+  {
+    "metric": "SOL",
+    "judge": "Qwen",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.073,
+      0.187,
+      0.265,
+      0.217,
+      0.154,
+      0.08,
+      0.024
+    ]
+  },
+  {
+    "metric": "SCL",
+    "judge": "Qwen",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.3545,
+      0.5635,
+      0.081,
+      0.001,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "SCL",
+    "judge": "Qwen",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.6285,
+      0.3315,
+      0.04,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "SCL",
+    "judge": "Qwen",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0145,
+      0.1905,
+      0.4665,
+      0.3285
+    ]
+  },
+  {
+    "metric": "SCL",
+    "judge": "Qwen",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.001,
+      0.096,
+      0.315,
+      0.588
+    ]
+  },
+  {
+    "metric": "SCL",
+    "judge": "Qwen",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.002,
+      0.136,
+      0.5725,
+      0.206,
+      0.0835
+    ]
+  },
+  {
+    "metric": "SCL",
+    "judge": "Qwen",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.017,
+      0.101,
+      0.778,
+      0.101,
+      0.003,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "SCL",
+    "judge": "Qwen",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.0,
+      0.004,
+      0.099,
+      0.7465,
+      0.138,
+      0.0125,
+      0.0
+    ]
+  },
+  {
+    "metric": "SEO",
+    "judge": "Qwen",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.171,
+      0.6415,
+      0.1805,
+      0.007,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "SEO",
+    "judge": "Qwen",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.816,
+      0.169,
+      0.015,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "SEO",
+    "judge": "Qwen",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.018,
+      0.1515,
+      0.3285,
+      0.3,
+      0.202
+    ]
+  },
+  {
+    "metric": "SEO",
+    "judge": "Qwen",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.001,
+      0.047,
+      0.121,
+      0.2735,
+      0.5575
+    ]
+  },
+  {
+    "metric": "SEO",
+    "judge": "Qwen",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.011,
+      0.2005,
+      0.2555,
+      0.318,
+      0.215
+    ]
+  },
+  {
+    "metric": "SEO",
+    "judge": "Qwen",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.013,
+      0.1845,
+      0.699,
+      0.076,
+      0.023,
+      0.0045,
+      0.0
+    ]
+  },
+  {
+    "metric": "SEO",
+    "judge": "Qwen",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.0,
+      0.005,
+      0.0755,
+      0.518,
+      0.272,
+      0.104,
+      0.0255
+    ]
+  },
+  {
+    "metric": "DSR_Contrast",
+    "judge": "Qwen",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.385,
+      0.543,
+      0.071,
+      0.001,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "DSR_Contrast",
+    "judge": "Qwen",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.5985,
+      0.3615,
+      0.04,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "DSR_Contrast",
+    "judge": "Qwen",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.011,
+      0.173,
+      0.4645,
+      0.3515
+    ]
+  },
+  {
+    "metric": "DSR_Contrast",
+    "judge": "Qwen",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0035,
+      0.1065,
+      0.323,
+      0.567
+    ]
+  },
+  {
+    "metric": "DSR_Contrast",
+    "judge": "Qwen",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0025,
+      0.143,
+      0.571,
+      0.206,
+      0.0775
+    ]
+  },
+  {
+    "metric": "DSR_Contrast",
+    "judge": "Qwen",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.0155,
+      0.096,
+      0.7835,
+      0.101,
+      0.003,
+      0.001,
+      0.0
+    ]
+  },
+  {
+    "metric": "DSR_Contrast",
+    "judge": "Qwen",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.0,
+      0.0015,
+      0.102,
+      0.7395,
+      0.1445,
+      0.0125,
+      0.0
+    ]
+  },
+  {
+    "metric": "PSR",
+    "judge": "Qwen",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.873,
+      0.112,
+      0.015,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "PSR",
+    "judge": "Qwen",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.009,
+      0.923,
+      0.068,
+      0.0
+    ]
+  },
+  {
+    "metric": "PSR",
+    "judge": "Qwen",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  {
+    "metric": "PSR",
+    "judge": "Qwen",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.01,
+      0.117,
+      0.853,
+      0.02,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "PSR",
+    "judge": "Qwen",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.068,
+      0.932,
+      0.0
+    ]
+  },
+  {
+    "metric": "PSR",
+    "judge": "Qwen",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.0,
+      0.003,
+      0.02,
+      0.968,
+      0.009,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "PSR",
+    "judge": "Qwen",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.117,
+      0.768,
+      0.112,
+      0.003,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "CF_g",
+    "judge": "Qwen",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.8725,
+      0.117,
+      0.0105,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "CF_g",
+    "judge": "Qwen",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0075,
+      0.94,
+      0.0525,
+      0.0
+    ]
+  },
+  {
+    "metric": "CF_g",
+    "judge": "Qwen",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  {
+    "metric": "CF_g",
+    "judge": "Qwen",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.005,
+      0.081,
+      0.906,
+      0.008,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "CF_g",
+    "judge": "Qwen",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0525,
+      0.9475,
+      0.0
+    ]
+  },
+  {
+    "metric": "CF_g",
+    "judge": "Qwen",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.0,
+      0.001,
+      0.007,
+      0.9845,
+      0.0075,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "CF_g",
+    "judge": "Qwen",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.1225,
+      0.801,
+      0.0765,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "CA_HDF",
+    "judge": "Qwen",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.577,
+      0.398,
+      0.024,
+      0.001,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "CA_HDF",
+    "judge": "Qwen",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.4075,
+      0.5235,
+      0.0585,
+      0.0065,
+      0.0025,
+      0.0015,
+      0.0
+    ]
+  },
+  {
+    "metric": "CA_HDF",
+    "judge": "Qwen",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0075,
+      0.0505,
+      0.1345,
+      0.21,
+      0.5975
+    ]
+  },
+  {
+    "metric": "CA_HDF",
+    "judge": "Qwen",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.0005,
+      0.005,
+      0.1185,
+      0.364,
+      0.2655,
+      0.1985,
+      0.048
+    ]
+  },
+  {
+    "metric": "CA_HDF",
+    "judge": "Qwen",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.0,
+      0.001,
+      0.053,
+      0.2055,
+      0.293,
+      0.327,
+      0.1205
+    ]
+  },
+  {
+    "metric": "CA_HDF",
+    "judge": "Qwen",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.013,
+      0.0715,
+      0.687,
+      0.157,
+      0.0475,
+      0.0215,
+      0.0025
+    ]
+  },
+  {
+    "metric": "CA_HDF",
+    "judge": "Qwen",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0375,
+      0.2085,
+      0.295,
+      0.2595,
+      0.1995
+    ]
+  },
+  {
+    "metric": "EFA",
+    "judge": "Gemini",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.9275,
+      0.0725,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "EFA",
+    "judge": "Gemini",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.0725,
+      0.9265,
+      0.001,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "EFA",
+    "judge": "Gemini",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0075,
+      0.0295,
+      0.0575,
+      0.224,
+      0.6815
+    ]
+  },
+  {
+    "metric": "EFA",
+    "judge": "Gemini",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.019,
+      0.079,
+      0.2005,
+      0.4695,
+      0.232
+    ]
+  },
+  {
+    "metric": "EFA",
+    "judge": "Gemini",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.099,
+      0.257,
+      0.394,
+      0.1865,
+      0.0635
+    ]
+  },
+  {
+    "metric": "EFA",
+    "judge": "Gemini",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.0,
+      0.001,
+      0.601,
+      0.251,
+      0.114,
+      0.029,
+      0.004
+    ]
+  },
+  {
+    "metric": "EFA",
+    "judge": "Gemini",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.2725,
+      0.3835,
+      0.233,
+      0.093,
+      0.018
+    ]
+  },
+  {
+    "metric": "IS_g",
+    "judge": "Gemini",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.988,
+      0.012,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "IS_g",
+    "judge": "Gemini",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.012,
+      0.987,
+      0.001,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "IS_g",
+    "judge": "Gemini",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0025,
+      0.014,
+      0.104,
+      0.8795
+    ]
+  },
+  {
+    "metric": "IS_g",
+    "judge": "Gemini",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.018,
+      0.073,
+      0.218,
+      0.599,
+      0.092
+    ]
+  },
+  {
+    "metric": "IS_g",
+    "judge": "Gemini",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.088,
+      0.209,
+      0.4595,
+      0.219,
+      0.0245
+    ]
+  },
+  {
+    "metric": "IS_g",
+    "judge": "Gemini",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.0,
+      0.001,
+      0.497,
+      0.3545,
+      0.1255,
+      0.021,
+      0.001
+    ]
+  },
+  {
+    "metric": "IS_g",
+    "judge": "Gemini",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.396,
+      0.361,
+      0.183,
+      0.057,
+      0.003
+    ]
+  },
+  {
+    "metric": "SOL",
+    "judge": "Gemini",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.995,
+      0.005,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "SOL",
+    "judge": "Gemini",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.005,
+      0.697,
+      0.208,
+      0.081,
+      0.009,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "SOL",
+    "judge": "Gemini",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.013,
+      0.987
+    ]
+  },
+  {
+    "metric": "SOL",
+    "judge": "Gemini",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.0,
+      0.183,
+      0.374,
+      0.315,
+      0.104,
+      0.024,
+      0.0
+    ]
+  },
+  {
+    "metric": "SOL",
+    "judge": "Gemini",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.0,
+      0.013,
+      0.089,
+      0.172,
+      0.486,
+      0.239,
+      0.001
+    ]
+  },
+  {
+    "metric": "SOL",
+    "judge": "Gemini",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.0,
+      0.102,
+      0.325,
+      0.402,
+      0.143,
+      0.028,
+      0.0
+    ]
+  },
+  {
+    "metric": "SOL",
+    "judge": "Gemini",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.004,
+      0.03,
+      0.258,
+      0.696,
+      0.012
+    ]
+  },
+  {
+    "metric": "SCL",
+    "judge": "Gemini",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.996,
+      0.004,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "SCL",
+    "judge": "Gemini",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.004,
+      0.988,
+      0.008,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "SCL",
+    "judge": "Gemini",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.005,
+      0.005,
+      0.028,
+      0.962
+    ]
+  },
+  {
+    "metric": "SCL",
+    "judge": "Gemini",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.202,
+      0.4,
+      0.234,
+      0.16,
+      0.004
+    ]
+  },
+  {
+    "metric": "SCL",
+    "judge": "Gemini",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.032,
+      0.189,
+      0.336,
+      0.423,
+      0.02
+    ]
+  },
+  {
+    "metric": "SCL",
+    "judge": "Gemini",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.0,
+      0.008,
+      0.704,
+      0.214,
+      0.055,
+      0.018,
+      0.001
+    ]
+  },
+  {
+    "metric": "SCL",
+    "judge": "Gemini",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.054,
+      0.192,
+      0.37,
+      0.371,
+      0.013
+    ]
+  },
+  {
+    "metric": "SEO",
+    "judge": "Gemini",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.994,
+      0.006,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "SEO",
+    "judge": "Gemini",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.006,
+      0.992,
+      0.002,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "SEO",
+    "judge": "Gemini",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.002,
+      0.004,
+      0.011,
+      0.063,
+      0.92
+    ]
+  },
+  {
+    "metric": "SEO",
+    "judge": "Gemini",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.159,
+      0.352,
+      0.321,
+      0.16,
+      0.008
+    ]
+  },
+  {
+    "metric": "SEO",
+    "judge": "Gemini",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.032,
+      0.204,
+      0.31,
+      0.415,
+      0.039
+    ]
+  },
+  {
+    "metric": "SEO",
+    "judge": "Gemini",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.0,
+      0.002,
+      0.724,
+      0.186,
+      0.064,
+      0.022,
+      0.002
+    ]
+  },
+  {
+    "metric": "SEO",
+    "judge": "Gemini",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.081,
+      0.254,
+      0.294,
+      0.34,
+      0.031
+    ]
+  },
+  {
+    "metric": "DSR_Contrast",
+    "judge": "Gemini",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.988,
+      0.012,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "DSR_Contrast",
+    "judge": "Gemini",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.012,
+      0.9665,
+      0.0215,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "DSR_Contrast",
+    "judge": "Gemini",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.002,
+      0.002,
+      0.011,
+      0.985
+    ]
+  },
+  {
+    "metric": "DSR_Contrast",
+    "judge": "Gemini",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.0,
+      0.003,
+      0.187,
+      0.4165,
+      0.2665,
+      0.127,
+      0.0
+    ]
+  },
+  {
+    "metric": "DSR_Contrast",
+    "judge": "Gemini",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0155,
+      0.0895,
+      0.2635,
+      0.6165,
+      0.015
+    ]
+  },
+  {
+    "metric": "DSR_Contrast",
+    "judge": "Gemini",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.0,
+      0.0175,
+      0.7035,
+      0.209,
+      0.0595,
+      0.0105,
+      0.0
+    ]
+  },
+  {
+    "metric": "DSR_Contrast",
+    "judge": "Gemini",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.0,
+      0.001,
+      0.0675,
+      0.288,
+      0.4135,
+      0.23,
+      0.0
+    ]
+  },
+  {
+    "metric": "PSR",
+    "judge": "Gemini",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.063,
+      0.443,
+      0.493,
+      0.001,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "PSR",
+    "judge": "Gemini",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "PSR",
+    "judge": "Gemini",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.845,
+      0.155
+    ]
+  },
+  {
+    "metric": "PSR",
+    "judge": "Gemini",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.829,
+      0.137,
+      0.034,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "PSR",
+    "judge": "Gemini",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.155,
+      0.845
+    ]
+  },
+  {
+    "metric": "PSR",
+    "judge": "Gemini",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.001,
+      0.999,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "PSR",
+    "judge": "Gemini",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.108,
+      0.42,
+      0.472,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "CF_g",
+    "judge": "Gemini",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.0245,
+      0.289,
+      0.6865,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "CF_g",
+    "judge": "Gemini",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "CF_g",
+    "judge": "Gemini",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.3605,
+      0.6395
+    ]
+  },
+  {
+    "metric": "CF_g",
+    "judge": "Gemini",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.877,
+      0.1045,
+      0.0185,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "CF_g",
+    "judge": "Gemini",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.6395,
+      0.3605
+    ]
+  },
+  {
+    "metric": "CF_g",
+    "judge": "Gemini",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "CF_g",
+    "judge": "Gemini",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.0985,
+      0.6065,
+      0.295,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "CA_HDF",
+    "judge": "Gemini",
+    "method": "JoyAI-edit",
+    "rank_frequency": [
+      0.9545,
+      0.0455,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "CA_HDF",
+    "judge": "Gemini",
+    "method": "LiveEdit",
+    "rank_frequency": [
+      0.045,
+      0.8825,
+      0.0565,
+      0.0145,
+      0.0015,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "metric": "CA_HDF",
+    "judge": "Gemini",
+    "method": "Lucy-Edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0,
+      0.0005,
+      0.0045,
+      0.104,
+      0.891
+    ]
+  },
+  {
+    "metric": "CA_HDF",
+    "judge": "Gemini",
+    "method": "SANA-Streaming-edit",
+    "rank_frequency": [
+      0.0,
+      0.027,
+      0.313,
+      0.425,
+      0.1995,
+      0.035,
+      0.0005
+    ]
+  },
+  {
+    "metric": "CA_HDF",
+    "judge": "Gemini",
+    "method": "StreamDiffusionV2-edit",
+    "rank_frequency": [
+      0.0,
+      0.0,
+      0.0035,
+      0.0395,
+      0.1285,
+      0.7315,
+      0.097
+    ]
+  },
+  {
+    "metric": "CA_HDF",
+    "judge": "Gemini",
+    "method": "StreamEdit",
+    "rank_frequency": [
+      0.0005,
+      0.04,
+      0.5315,
+      0.285,
+      0.136,
+      0.007,
+      0.0
+    ]
+  },
+  {
+    "metric": "CA_HDF",
+    "judge": "Gemini",
+    "method": "Wan2.1-VACE",
+    "rank_frequency": [
+      0.0,
+      0.004,
+      0.0815,
+      0.2585,
+      0.528,
+      0.1185,
+      0.0095
+    ]
+  }
+]

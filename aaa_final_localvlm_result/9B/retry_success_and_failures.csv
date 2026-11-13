@@ -1,0 +1,8 @@
+﻿method,planned,valid,first_attempt_success,second_attempt_success,third_attempt_success,retry_success,exhausted_failures,total_attempts,failed_attempts,identical_answers_repeated_interactions
+JoyAI-edit,300,288,273,15,0,15,12,339,51,0
+LiveEdit,300,291,271,20,0,20,9,338,47,0
+Lucy-Edit,300,292,274,15,3,18,8,337,45,0
+SANA-Streaming-edit,300,284,253,31,0,31,16,363,79,0
+StreamDiffusionV2-edit,300,285,256,27,2,29,15,361,76,0
+StreamEdit,300,286,267,17,2,19,14,349,63,0
+Wan2.1-VACE,300,289,261,28,0,28,11,350,61,0
